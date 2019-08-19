@@ -2,7 +2,7 @@
 Puppeteer scrape products prices from Tesco online store 
 
 
-
+TO INSTALL => npm install
 TO RUN => node index.js
 
 Project in progress.
