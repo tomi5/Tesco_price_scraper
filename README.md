@@ -1,5 +1,7 @@
 # Tesco_price_scraper
-Scrape products prices from Tesco online store
+Puppeteer scrape products prices from Tesco online store 
+
+
 
 TO RUN => node index.js
 
